@@ -120,7 +120,7 @@ If you need clarification, ask on Slack.
 
 # Screenshot of Unit Test Passing
 
-**Please note that I have make some adjustment of TEST CASE in order to adapt the running threodhold**
+**Please note that I have make some adjustment of TEST CASE in order to adapt the target time**
 
 According to the professor answer, it is allowed.
 
